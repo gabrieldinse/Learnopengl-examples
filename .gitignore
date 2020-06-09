@@ -10,3 +10,6 @@ VSConfigs/
 *.vcxproj
 *.vcxproj.filters
 *.ini
+*.exe
+*.ilk
+*.pdb
