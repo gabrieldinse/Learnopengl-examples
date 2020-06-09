@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Libraries\OpenGL\include\learnopengl\shader.h(56,40): warning C4101: 'e': unreferenced local variable
+  Coordinate Systems.vcxproj -> C:\dev\learnopengl_projects\x64\Debug\Coordinate Systems.exe
